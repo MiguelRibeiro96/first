@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346596738928",
+    "project_id": "cookit-bda45",
+    "storage_bucket": "cookit-bda45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346596738928:android:154f26a403bd88f2adb1b5",
+        "android_client_info": {
+          "package_name": "com.example.cookit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346596738928-vr1rpc7okgrg08dacc0okrsv7mcdko5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgO2GP3GOdCFEtH0TLiLRkmc3OEmZKHjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346596738928-vr1rpc7okgrg08dacc0okrsv7mcdko5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
