@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/orange_red"
+    android:background="@color/grey"
     tools:context=".SplashActivity">
 
     <com.airbnb.lottie.LottieAnimationView
@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:text="Cookit"
         android:fontFamily="@font/candy"
-        android:textColor="@color/darK_orange"
+        android:textColor="@color/green"
         android:textSize="100dp"
         app:layout_constraintBottom_toTopOf="@+id/recipe_anim"
         app:layout_constraintEnd_toEndOf="parent"

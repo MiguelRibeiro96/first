@@ -12,4 +12,6 @@
     <color name="orange_red">#FF4500</color>
     <color name="darK_orange">#FF8C00</color>
     <color name="Alice_blue">#F0F8FF</color>
+    <color name ="grey">#669999</color>
+    <color name="green">#66cc99</color>
 </resources>

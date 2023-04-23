@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/orange_red"
+    android:background="@color/grey"
     tools:context=".SignUpActivity">
 
     <TextView
@@ -17,7 +17,7 @@
         android:text="Cookit"
         android:fontFamily="@font/candy"
         android:textSize="100dp"
-        android:textColor="@color/darK_orange"
+        android:textColor="@color/green"
         android:gravity="center"/>
 
 
